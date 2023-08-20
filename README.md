@@ -14,10 +14,10 @@ This component can optionally take the following props: className, expanded, col
 npm -v
 ```
 
-- Install package.json
+- Install node modules
 
 ```
-npm install package.json
+npm install
 ```
 
 - Run on local computer
